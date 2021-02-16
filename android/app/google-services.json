@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1043075552988",
+    "project_id": "batch7reactnative",
+    "storage_bucket": "batch7reactnative.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043075552988:android:4734bf040b882bc4da8619",
+        "android_client_info": {
+          "package_name": "com.android7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043075552988-rh1a3n56masq2t13qm53nm6g0nefds4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATMwzEQ59rofy4D5zSAE6EvIYQBhzwj34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043075552988-rh1a3n56masq2t13qm53nm6g0nefds4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
